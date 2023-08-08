@@ -1,7 +1,7 @@
-<img src="https://github.com/Aki-Mira/Aki-mira/blob/main/header.png">
+<img src="https://github.com/Aki-Mira/Aki-mira/blob/main/header.png">  
 - 🌱 I’m currently learning QA engineer  
 - 🔭 I’m looking for a job as a QA Intern  
-- 💬 Know about my expirience <a href="https://www.linkedin.com/in/akimira/" target="_blank">Linkedin</a>  
+- 💬 Know about my expirience <a href="https://www.linkedin.com/in/akimira/" target="_blank">LinkedIn</a>  
 - 📫 How to reach me: akimiratest@gmail.com  
 
 <!--
