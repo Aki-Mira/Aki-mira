@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I’m currently learning QA
 
 <!--
 **Aki-Mira/Aki-mira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
