@@ -4,7 +4,7 @@
 - 💬 Know about my expirience <a href="https://www.linkedin.com/in/akimira/" target="_blank">LinkedIn</a>   <br>
 - 📫 How to reach me: akimiratest@gmail.com   <br>
 
-# What I can do:
+# I can do:
  - <a href="https://github.com/Aki-Mira/QA_Basic_Stepik/blob/main/HOW_TO_TEST_A_PENCIL.md" target="_blank">Test a pencil</a>
  - <a href="https://github.com/Aki-Mira/QA_Basic_Stepik/blob/main/requirements_analysis.md" target="_blank">Requirements analysis</a>
  - <a href="https://github.com/Aki-Mira/FreeCodeCamp/tree/main/Quality%20Assurance%20and%20Testing%20with%20Chai" target="_blank">Testing with Chai</a>
