@@ -6,7 +6,7 @@
 
 # What I can do:
  - <a href="https://github.com/Aki-Mira/QA_Basic_Stepik/blob/main/HOW_TO_TEST_A_PENCIL.md" target="_blank">Test a pencil</a>
- - <a href="https://github.com/Aki-Mira/QA_Basic_Stepik/blob/main/requirements_analysis.md" target="_blank">Requirements_analysis</a>
+ - <a href="https://github.com/Aki-Mira/QA_Basic_Stepik/blob/main/requirements_analysis.md" target="_blank">Requirements analysis</a>
  - <a href="https://github.com/Aki-Mira/FreeCodeCamp/tree/main/Quality%20Assurance%20and%20Testing%20with%20Chai" target="_blank">Testing with Chai</a>
  - <a href="https://github.com/Aki-Mira/QA_Basic_University_Innopolis/blob/main/QA/Test_Design_Techniques.md" target="_blank">Test Design Techniques</a>
  - <a href="https://github.com/Aki-Mira/QA_Basic_University_Innopolis/blob/main/QA/TEST.md" target="_blank">Test Mobile App</a>
