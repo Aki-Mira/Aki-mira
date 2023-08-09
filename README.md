@@ -13,6 +13,7 @@
  - <a href="https://github.com/Aki-Mira/QA_Basic_University_Innopolis/blob/main/QA/TEST.md" target="_blank">Test Mobile App</a>
  - <a href="https://github.com/Aki-Mira/QA_SkillBox/blob/main/QA/HomeWork1.md" target="_blank">Test Web Interface</a>
  - <a href="https://github.com/Aki-Mira/QA_SkillBox/blob/main/QA/HomeWork2.md" target="_blank">Test API with Postman</a>
+ - <a href="https://github.com/Aki-Mira/QA_Basic_Stepik/blob/main/EP_BVA_Practice_Assignment.md" target="_blank">Equivalence Partitioning and Boundary Value Analysis test design techniques</a>
  - I’m learning <a href="https://github.com/Aki-Mira/QA_Basic_University_Innopolis/tree/main/JAVA" target="_blank">JAVA</a>, <a href="https://github.com/Aki-Mira/CodeWars/tree/main/JS" target="_blank">JavaScript</a>, <a href="https://github.com/Aki-Mira/CodeWars/tree/main/SQL" target="_blank">SQL</a> 
 
 <!--
