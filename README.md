@@ -1,7 +1,7 @@
 <img src="https://github.com/Aki-Mira/Aki-mira/blob/main/header.png">  
 <img src="https://www.codewars.com/users/AkiMira/badges/large">
 - 🌱 I’m currently learning QA engineer  <br>
-- 🔭 I’m looking for a job as a QA Intern   <br>
+- 🔭 I’m looking for a job as a QA engineer   <br>
 - 💬 Know about my expirience <a href="https://www.linkedin.com/in/akimira/" target="_blank">LinkedIn</a>   <br>
 - 📫 How to reach me: akimiratest@gmail.com   <br>
 
